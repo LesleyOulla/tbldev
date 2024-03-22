@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+
+body{
+
+}
+
+.bande-rouge{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A60612;
+    width: 100%;
+    height:130px ;
+    color: white;
+    font-size: 43px;
+}
+.noire{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    width: 100%;
+    height:630px ;
+    color: white;
+}
