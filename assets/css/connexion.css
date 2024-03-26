@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+
+.bg-body{
+background-image: url(../images/tableau.png);
+height: 650px;
+width: auto;
+}
