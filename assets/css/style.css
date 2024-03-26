@@ -25,6 +25,18 @@ body{
     align-items: center;
     background-color: #000;
     width: 100%;
-    height:630px ;
+    height:650px ;
     color: white;
+}
+
+.demi-bande-noir{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    width: 100%;
+    height:350px ;
+    color: white;
+
 }
